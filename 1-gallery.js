@@ -8,4 +8,4 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
           />
         </a>
       </li>`).join("")}n.insertAdjacentHTML("beforeend",c(e));new t(".gallery a",{captions:!0,captionsData:"alt",captionDelay:250});
-//# sourceMappingURL=1-gllery.js.map
+//# sourceMappingURL=1-gallery.js.map
